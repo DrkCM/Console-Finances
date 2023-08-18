@@ -8,4 +8,7 @@ the code take the supplied values and crate a table with different part like I s
 
 I used a javascript code to create this analysis.
 
+Deployed Link https://drkcm.github.io/Console-Finances/
+
+Repo Link https://github.com/DrkCM/Console-Finances
 
